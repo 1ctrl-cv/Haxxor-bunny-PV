@@ -1,0 +1,16 @@
+package a.b.c.d;
+import java.util.concurrent.timeunit;
+    public class ceshi{
+        public static void main(string[]args) {}
+            string s "take the blue crystal.you stay here
+                    and i show you where the haxxor bunny goes."
+            for(int i = 0; i < s.length(); ++i) {
+                    system.out.print(s.charat(i));
+            try {
+                    timeunit.milliseconds.sleep(100);
+            } catch(interruptedexception e) {
+            e.printstacktrace():
+        }
+    }
+    system.out.printIn();
+}
